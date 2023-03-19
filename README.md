@@ -36,7 +36,15 @@
 
 ### Main
 - 4x Window captures for the 4 tournament clients [^tctransforms]
-  - **Transforms** :
+
+[^tctransforms]: Transforms for each Window capture 
+  
+  | Client       | Position (x) | Position (y) |
+  |--------------|--------------|--------------| 
+  | Top Left     | 0px          | 160px        |
+  | Bottom Left  | 0px          | 520px        |
+  | Top Right    | 960px        | 160px        |
+  | Bottom Right | 960px        | 520px        |
 
 - Browser source (main overlay)
   - [ ] Local file
@@ -54,14 +62,3 @@
   - Height: 700
   - **Transform**:
     - Position: `0.00px` `190.00px`
-  
-
-
-[^tctransforms]: Transforms for each Window capture 
-
-| Client       | Position (x) | Position (y) |
-|--------------|--------------|--------------| 
-| Top Left     | 0px          | 160px        |
-| Bottom Left  | 0px          | 520px        |
-| Top Right    | 960px        | 160px        |
-| Bottom Right | 960px        | 520px        |
