@@ -35,10 +35,8 @@
   - Leave rest default
 
 ### Main
-- 4x Window captures for the 4 tournament clients [^tctransforms]
+- 4x Window captures for the 4 tournament clients
 
-[^tctransforms]: Transforms for each Window capture 
-  
   | Client       | Position (x) | Position (y) |
   |--------------|--------------|--------------| 
   | Top Left     | 0px          | 160px        |
