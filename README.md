@@ -14,7 +14,24 @@
   - Matches: [Finesse_2023_TClient_WIP.osk](Skins/Finesse_2023_TClient_WIP.osk)
   - Showcase: [Finesse_2023_Showcase_WIP.osk](Skins/Finesse_2023_Showcase_WIP.osk)
 - Load map pack
-- 
+- Tournament client settings:
+
+| Setting                  |  Setting value   |
+|--------------------------|:----------------:|
+| Client stream            | **Cutting Edge** |
+| Background video         |     **Off**      |
+| Storyboards              |     **Off**      |
+| Combo bursts             |     **Off**      |
+| Hit lighting             |     **Off**      |
+| Seasonal backgrounds     |    **Never**     |
+| Background dim           |     **80%**      |
+| Always show key overlay  |      **On**      |
+| Ignore all beatmap skins |      **On**      |
+| Always use skin cursor   |      **On**      |
+| Cursor size              |     **1.0**      |
+| Automatic cursor size    |     **Off**      |
+
+
 
 ____
 
