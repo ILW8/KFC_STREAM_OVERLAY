@@ -6,7 +6,7 @@
 - Place them into `static/_data` (create `_data` if it doesn't already exist)
 
 ### Intro
-- Grab `coming_up.json` from [@shdewz](https://github.com/shdewz) or from the sheets
+- Grab `coming_up.json` from [@shdewz](https://github.com/shdewz) or from the sheets (ref sheet, `Schedule` tab, column Q)
 - Place it into `static/_data`
 
 ### Tournament client
