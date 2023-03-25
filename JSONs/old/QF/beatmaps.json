@@ -1,0 +1,95 @@
+{
+    "stage": "quarterfinals",
+    "beatmaps": [
+        {
+            "beatmap_id": 2856086,
+            "identifier": "NM1",
+            "mods": "NM"
+        },
+        {
+            "beatmap_id": 3851547,
+            "identifier": "NM2",
+            "mods": "NM"
+        },
+        {
+            "beatmap_id": 2700747,
+            "identifier": "NM3",
+            "mods": "NM"
+        },
+        {
+            "beatmap_id": 1844808,
+            "identifier": "NM4",
+            "mods": "NM"
+        },
+        {
+            "beatmap_id": 2758940,
+            "identifier": "NM5",
+            "mods": "NM"
+        },
+        {
+            "beatmap_id": 1299008,
+            "identifier": "HD1",
+            "mods": "HD"
+        },
+        {
+            "beatmap_id": 2075064,
+            "identifier": "HD2",
+            "mods": "HD"
+        },
+        {
+            "beatmap_id": 3395093,
+            "identifier": "HD3",
+            "mods": "HD"
+        },
+        {
+            "beatmap_id": 3462461,
+            "identifier": "HD4",
+            "mods": "HD"
+        },
+        {
+            "beatmap_id": 3834534,
+            "identifier": "HR1",
+            "mods": "HR"
+        },
+        {
+            "beatmap_id": 168666,
+            "identifier": "HR2",
+            "mods": "HR"
+        },
+        {
+            "beatmap_id": 3562538,
+            "identifier": "HR3",
+            "mods": "HR"
+        },
+        {
+            "beatmap_id": 2088202,
+            "identifier": "HR4",
+            "mods": "HR"
+        },
+        {
+            "beatmap_id": 3030426,
+            "identifier": "DT1",
+            "mods": "DT"
+        },
+        {
+            "beatmap_id": 3105221,
+            "identifier": "DT2",
+            "mods": "DT"
+        },
+        {
+            "beatmap_id": 3298222,
+            "identifier": "DT3",
+            "mods": "DT"
+        },
+        {
+            "beatmap_id": 2611011,
+            "identifier": "DT4",
+            "mods": "DT"
+        },
+        {
+            "beatmap_id": 3457777,
+            "identifier": "TB",
+            "mods": "TB"
+        }
+    ]
+}

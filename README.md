@@ -2,11 +2,11 @@
 
 ## Weekly setup
 ### Mappool data
-- Grab `beatmap.json` and `beatmap_data.json` from [@shdewz](https://github.com/shdewz) or the sheets
+- Grab `beatmap.json` and `beatmap_data.json` from [@shdewz](https://github.com/shdewz) or the sheets or from [JSONs](JSONs)
 - Place them into `static/_data` (create `_data` if it doesn't already exist)
 
 ### Intro
-- Grab `coming_up.json` from [@shdewz](https://github.com/shdewz) or from the sheets (ref sheet, `Schedule` tab, column Q)
+- Grab `coming_up.json` from [@shdewz](https://github.com/shdewz) or from the sheets (ref sheet, `Schedule` tab, column Q) or from [JSONs/ComingUp](JSONs/ComingUp)
 - Place it into `static/_data`
 
 ### Tournament client
