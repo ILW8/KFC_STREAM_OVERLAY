@@ -2,7 +2,7 @@
 
 ## Weekly setup
 ### Mappool data
-- Grab `beatmap.json` and `beatmap_data.json` from [@shdewz](https://github.com/shdewz) or the sheets or from [JSONs](JSONs)
+- Grab [beatmap.json](https://github.com/ILW8/KFC_STREAM_OVERLAY/releases/download/SF/beatmap.json) and [beatmap_data.json](https://github.com/ILW8/KFC_STREAM_OVERLAY/releases/download/SF/beatmap_data.json) (or ask [@shdewz](https://github.com/shdewz) or the sheets or from [JSONs](JSONs))
 - Place them into `static/_data` (create `_data` if it doesn't already exist)
 
 ### Intro

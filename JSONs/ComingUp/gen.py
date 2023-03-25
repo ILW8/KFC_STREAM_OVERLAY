@@ -21,6 +21,8 @@ SHEET_CSV = """
 ,SF,24,Mar 25 (Sat),14:00,FLOPINSKI,•   ✦,6,0,✦   •,zeisendash,[K],Rainbowtaves,,,107573344,"{""time"": 1679752800000, ""red_team"": ""FLOPINSKI"", ""blue_team"": ""zeisendash""}",,W,,FLOPINSKI,zeisendash,15,16,https://osu.ppy.sh/community/matches/107573344,HR2,DT2,HR3,DT3
 """
 
+RELEASE_TAG_NAME = "SF"
+
 
 def generate():
     with io.StringIO(SHEET_CSV) as string_input:
@@ -32,7 +34,7 @@ def generate():
                 outfile.write(row[16])
 
             # print Markdown table
-            print(f"| {row[2]} | {row[3]} {row[4]} | [download]({row[2]}.json) |")
+            print(f"| {row[2]} | {row[3]} {row[4]} | [download](https://github.com/ILW8/KFC_STREAM_OVERLAY/releases/download/{RELEASE_TAG_NAME}/{row[2]}.json) |")
 
 
 if __name__ == "__main__":
